@@ -1,0 +1,14 @@
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\bin\Debug\PizzaProjectWinForm.exe.config
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\bin\Debug\PizzaProjectWinForm.exe
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\bin\Debug\PizzaProjectWinForm.pdb
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.csproj.AssemblyReference.cache
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.Form1.resources
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.Properties.Resources.resources
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.csproj.GenerateResource.cache
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.csproj.CoreCompileInputs.cache
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.exe
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.pdb
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaProjectWinForm.exe.config
+D:\Programming\C# Foundemantals\C# level1\PizzaProjectWinForm\obj\Debug\PizzaPro.ED5B3080.Up2Date
